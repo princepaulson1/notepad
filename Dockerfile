@@ -28,3 +28,4 @@ EXPOSE 8080
 
 # Main command
 ENTRYPOINT ["/bin/sh", "/opt/notepad/bin/entrypoint.sh"]
+
