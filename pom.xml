@@ -36,13 +36,13 @@
 	<distributionManagement>
 		<repository>
 			<id>central</id>
-			<name>myartifactory-libs-release</name>
-			<url>https://mytestartifactoryserver.jfrog.io/artifactory/myartifactory-libs-release</url>
+			<name>myartifactory-libs-release-local/</name>
+			<url>https://mytestartifactoryserver.jfrog.io/artifactory/myartifactory-libs-release-local/</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
-			<name>myartifactory-libs-snapshot</name>
-			<url>https://mytestartifactoryserver.jfrog.io/artifactory/myartifactory-libs-snapshot</url>
+			<name>myartifactory-libs-snapshot-local/</name>
+			<url>https://mytestartifactoryserver.jfrog.io/artifactory/myartifactory-libs-snapshot-local/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
